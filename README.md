@@ -5,7 +5,7 @@
 
 ### 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/khaine2k4)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/khaine2k4](https://www.facebook.com/nguyen.khai.16104))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaine2k4)
 
 ---
@@ -43,7 +43,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaine2k4&theme=tokyonight&no-frame=true&row=1&column=3" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khaine2k4&theme=tokyonight&no-frame=true&row=1&column=3" />
+  </a>
 </p>
 
 ---
@@ -51,7 +53,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://readme-quotes.svg-rewrew.vercel.app/api?theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Code%20.%20Coffee%20.%20Repeat&fontSize=20" width="100%" />
 </p>
 
 ---
