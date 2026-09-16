@@ -5,7 +5,7 @@
 
 ### 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/khaine2k4](https://www.facebook.com/nguyen.khai.16104))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.khai.16104)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaine2k4)
 
 ---
@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaine2k4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaine2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaine2k4&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -43,9 +43,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khaine2k4&theme=tokyonight&no-frame=true&row=1&column=3" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=khaine2k4&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" width="100%" />
 </p>
 
 ---
